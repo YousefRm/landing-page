@@ -1,2 +1,2 @@
 # landing-page
-a landing page website
+a simple landing page website
